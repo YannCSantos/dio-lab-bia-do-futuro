@@ -5,11 +5,11 @@
 > Agente de IA Generativa que atua como educador financeira, analisando extratos bancários para gerar insights práticos de economia e tirar dúvidas sem violação de dados sensíveis.
 
 ## 💡 O Que é Axis?
-O Axis é uma assistente virtual focada em tirar dúvidas e aconselhar sobre organização financeira a partir dos dados financeiros conhecidos e as informações prestadas pelo usuário.
+O Axis é uma assistente virtual focada em tirar dúvidas e educar sobre organização financeira a partir dos dados financeiros conhecidos e perguntas prestadas pelo usuário. O Axis utiliza a técnica de RAG (Retrieval-Augmented Generation) para analisar dados locais de perfil e transações sem comprometer a privacidade do usuário. Ele não é um consultor de investimentos, mas um educador focado em literacia financeira.
 
 **O que o Axis faz:**
 * ✅ Analisa dados tabulares e identifica onde o cliente gasta mais.
-* ✅ Gera resumos acolhedores usando linguagem empática e emojis.
+* ✅ Gera resumos acolhedores usando linguagem empática.
 * ✅ Fornece dicas práticas e educacionais de economia.
 
 **O que o Axis NÃO faz (Foco em Segurança):**
